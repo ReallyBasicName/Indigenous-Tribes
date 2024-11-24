@@ -28,7 +28,7 @@
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
 		"outerColor": [6,57,112],
-		"innerColor": [6,57,112],
+		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["Turikaku","Kitkehaxpakuxtu","Tuhitspiat","Tukitskita","Tuhawukasa","Arikararikutsu","Arikarariki","Tuwarakaku","Akapaxtsawa",
 			"Tskisarikus","Tstikskaatit","Turawiu","Pahukstatu","Tskirirara","Panismaha"],
