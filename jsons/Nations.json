@@ -1,10 +1,10 @@
 [
 	{
-		"name": ["Pawnee Nation"],
-		"leaderName": ["La-Roo-Chuck-A-La-Shar"],
-		"adjective": ["Pawnee"],
-		"startBias": ["Plains"],
-		"preferredVictoryType": ["Domination"],
+		"name": "Pawnee Nation",
+		"leaderName": "La-Roo-Chuck-A-La-Shar",
+		"adjective": "Pawnee",
+		"startBias": "Plains",
+		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": ["You stand before Chaticks si Chaticks!"],
 		"startIntroPart2": ["Our Resaru'karu welcomes you."],
