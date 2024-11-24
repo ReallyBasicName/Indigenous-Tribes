@@ -27,8 +27,8 @@
 		"afterPeace": ["Are you sure you want to stop fighting?"],
 		"tradeRequest": ["We bestow you the honor of this trade offer."],
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
+		"outerColor": [6,57,112],
+		"innerColor": [6,57,112],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["Turikaku","Kitkehaxpakuxtu","Tuhitspiat","Tukitskita","Tuhawukasa","Arikararikutsu","Arikarariki","Tuwarakaku","Akapaxtsawa",
 			"Tskisarikus","Tstikskaatit","Turawiu","Pahukstatu","Tskirirara","Panismaha"],
