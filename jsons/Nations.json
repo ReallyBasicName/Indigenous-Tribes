@@ -35,4 +35,40 @@
 	
 	},
 	{
+                
+		"name": "Cherokee Nation",
+		"leaderName": "La-Roo-Chuck-A-La-Shar",
+		"adjective": ["Pawnee"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "You stand before Chaticks si Chaticks!",
+		"startIntroPart2": "Our Resaru'karu welcomes you.",
+		
+		"declaringWar": "If it is blood you thirst for then I shall drown you in it.",
+		"attacked": "I will scalp you twice!",
+		"defeated": "You cannot defeat my Spirit.",
+		"introduction": "The Pawnee have not welcomed you to our lands tresspasser.",
+		
+		"neutralHello": "I see you still live.",
+		"neutralLetsHearIt": ["What?"],
+		"neutralNo": ["No."],
+		"neutralYes": ["Yes."],
+
+		"hateHello": "What do you want?",
+		"hateLetsHearIt": ["Speak!"],
+		"hateNo": ["That is not acceptable!"],
+		"hateYes": ["Very well..."],
+		
+		"afterPeace": "Are you sure you want to stop fighting?",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+
+		"outerColor": [6,57,112],
+		"innerColor": [1,1,1],
+		"unique": "MANIFEST_DESTINY",
+		"cities": ["Turikaku","Kitkehaxpakuxtu","Tuhitspiat","Tukitskita","Tuhawukasa","Arikararikutsu","Arikarariki","Tuwarakaku","Akapaxtsawa",
+			"Tskisarikus","Tstikskaatit","Turawiu","Pahukstatu","Tskirirara","Panismaha"],
+	
+	},
+	{
 ]
