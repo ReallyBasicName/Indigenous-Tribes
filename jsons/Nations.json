@@ -48,9 +48,9 @@
 		"declaringWar": "Then we will go to war!.",
 		"attacked": "I will never surrender!",
 		"defeated": "You cannot defeat my Spirit.",
-		"introduction": "You are welcome here.",
+		"introduction": "Let us speak awhile.",
 		
-		"neutralHello": ".",
+		"neutralHello": "Hello.",
 		"neutralLetsHearIt": ["What?"],
 		"neutralNo": ["No."],
 		"neutralYes": ["Yes."],
@@ -60,7 +60,7 @@
 		"hateNo": ["That is not acceptable!"],
 		"hateYes": ["Very well..."],
 		
-		"afterPeace": "Are you sure you want to stop fighting?",
+		"afterPeace": "Come let us smoke and renew our friendship.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
 		"outerColor": [6,57,112],
