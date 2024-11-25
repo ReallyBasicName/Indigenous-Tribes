@@ -79,15 +79,15 @@
                 "preferredVictoryType":"Cultural",
   
                 "startIntroPart1": "We, the children of the Beaked One, will fulfill our bestowed destiny.",
-                "startIntroPart2": "Bilítaachiia iichiaxxó Akbaatatdía koó daasée",
+                "startIntroPart2": "Bilítaachiia iichiaxxó Akbaatatdía koó daasée bíilukaa.",
   
-                "declaringWar": "",
-                "attacked": "",
-                "defeated": "",
+                "declaringWar": "Akbaatatdia will strike you down alongside us!",
+                "attacked": "You dare attack our sacred land? May Akbaatatdia protect us against you!",
+                "defeated": "It seems we were not the chosen of Akbaatatdia.. Very well.",
                 "introduction": "",
   
                 "neutralHello": "Kahée, stranger.",
-                "neutralLetsHearIt": ["basshihkaachíssee","",""],
+                "neutralLetsHearIt": ["Basshihkaachíssee","",""],
                 "neutralNo": ["","",""],
                 "neutralYes": ["","",""],
 
@@ -96,8 +96,8 @@
                 "hateNo": ["","",""],
                 "hateYes": ["","",""],
   
-                "afterPeace": "",
-                "tradeRequest": "",
+                "afterPeace": "Let us celebrate this peace with a race of horses!",
+                "tradeRequest": "A resource for a resource for both our people to prosper?",
 
                 "outerColor": [16,16,16],
                 "innerColor": [255,200,200],
