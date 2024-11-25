@@ -72,11 +72,11 @@
 	},
         {
                
-		"name": "Crow Nation",
+		"name": "Crow Tribe",
                 "leaderName": "Plenty Coups",
                 "adjective": ["Crow"],
                 "startBias": ["Plains"],
-                "preferredVictoryType": "",
+"preferredVictoryType":"Cultural",
   
                 "startIntroPart1": "",
                 "startIntroPart2": "",
@@ -104,7 +104,6 @@
                 "unique": "MANIFEST_DESTINY",
                 "cities": [""]
        
-	},
-	{
+	}
 		
 ]
