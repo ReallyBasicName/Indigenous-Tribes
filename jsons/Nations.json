@@ -70,5 +70,37 @@
 			"Tskisarikus","Tstikskaatit","Turawiu","Pahukstatu","Tskirirara","Panismaha"],
 	
 	},
-	{
+{
+  "name": "Crow Tribe",
+  "leaderName": "Plenty Coups",
+  "adjective": ["Crow"],
+  "startBias": ["Plains"],
+  "preferredVictoryType": "",
+  
+  "startIntroPart1": "",
+  "startIntroPart2": "",
+  
+  "declaringWar": "",
+  "attacked": "",
+  "defeated": "",
+  "introduction": "",
+  
+  "neutralHello": "",
+  "neutralLetsHearIt": ["","",""],
+  "neutralNo": ["","",""],
+  "neutralYes": ["","",""],
+
+  "hateHello": "",
+  "hateLetsHearIt": ["","",""],
+  "hateNo": ["","",""],
+  "hateYes": ["","",""],
+  
+  "afterPeace": "",
+  "tradeRequest": "",
+
+  "outerColor": [16,16,16],
+  "innerColor": [255,200,200],
+  "unique": "MANIFEST_DESTINY",
+  "cities": [""]
+ }
 ]
