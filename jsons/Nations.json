@@ -37,20 +37,20 @@
 	{
                 
 		"name": "Cherokee Nation",
-		"leaderName": "La-Roo-Chuck-A-La-Shar",
-		"adjective": ["Pawnee"],
+		"leaderName": "Degataga",
+		"adjective": ["Cherokee"],
 		"startBias": ["Plains"],
-		"preferredVictoryType": "Domination",
+		"preferredVictoryType": "Cultural",
 		
-		"startIntroPart1": "You stand before Chaticks si Chaticks!",
-		"startIntroPart2": "Our Resaru'karu welcomes you.",
+		"startIntroPart1": "Ulihelisdi Welcome",
+		"startIntroPart2": "The Cherokee Nation welcomes you",
 		
-		"declaringWar": "If it is blood you thirst for then I shall drown you in it.",
-		"attacked": "I will scalp you twice!",
+		"declaringWar": "Then we will go to war!.",
+		"attacked": "I will never surrender!",
 		"defeated": "You cannot defeat my Spirit.",
-		"introduction": "The Pawnee have not welcomed you to our lands tresspasser.",
+		"introduction": "You are welcome here.",
 		
-		"neutralHello": "I see you still live.",
+		"neutralHello": ".",
 		"neutralLetsHearIt": ["What?"],
 		"neutralNo": ["No."],
 		"neutralYes": ["Yes."],
