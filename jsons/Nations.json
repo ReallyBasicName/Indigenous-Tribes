@@ -70,37 +70,41 @@
 			"Tskisarikus","Tstikskaatit","Turawiu","Pahukstatu","Tskirirara","Panismaha"],
 	
 	},
-{
-  "name": "Crow Tribe",
-  "leaderName": "Plenty Coups",
-  "adjective": ["Crow"],
-  "startBias": ["Plains"],
-  "preferredVictoryType": "",
+        {
+               
+		"name": "Crow Nation",
+                "leaderName": "Plenty Coups",
+                "adjective": ["Crow"],
+                "startBias": ["Plains"],
+                "preferredVictoryType": "",
   
-  "startIntroPart1": "",
-  "startIntroPart2": "",
+                "startIntroPart1": "",
+                "startIntroPart2": "",
   
-  "declaringWar": "",
-  "attacked": "",
-  "defeated": "",
-  "introduction": "",
+                "declaringWar": "",
+                "attacked": "",
+                "defeated": "",
+                "introduction": "",
   
-  "neutralHello": "Kahée, stranger.",
-  "neutralLetsHearIt": ["basshihkaachíssee","",""],
-  "neutralNo": ["","",""],
-  "neutralYes": ["","",""],
+                "neutralHello": "Kahée, stranger.",
+                "neutralLetsHearIt": ["basshihkaachíssee","",""],
+                "neutralNo": ["","",""],
+                "neutralYes": ["","",""],
 
-  "hateHello": "",
-  "hateLetsHearIt": ["","",""],
-  "hateNo": ["","",""],
-  "hateYes": ["","",""],
+                "hateHello": "",
+                "hateLetsHearIt": ["","",""],
+                "hateNo": ["","",""],
+                "hateYes": ["","",""],
   
-  "afterPeace": "",
-  "tradeRequest": "",
+                "afterPeace": "",
+                "tradeRequest": "",
 
-  "outerColor": [16,16,16],
-  "innerColor": [255,200,200],
-  "unique": "MANIFEST_DESTINY",
-  "cities": [""]
- }
+                "outerColor": [16,16,16],
+                "innerColor": [255,200,200],
+                "unique": "MANIFEST_DESTINY",
+                "cities": [""]
+       
+	},
+	{
+		
 ]
