@@ -107,10 +107,10 @@
 	},
 	{
 		"name": "Apache Nation",
-		"leaderName": "",
+		"leaderName": "Geronimo",
 		"adjective": ["Apache"],
 		"startBias": ["Plains"],
-		"preferredVictoryType": "Diplomatic",
+		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "Welcome",
 		"startIntroPart2": "",
@@ -142,7 +142,7 @@
 	{
 		
 		"name": "Abenaki Nation",
-		"leaderName": "",
+		"leaderName": "Nescambuit",
 		"adjective": ["Abenaki"],
 		"startBias": ["Plains"],
 		"preferredVictoryType": "Diplomatic",
@@ -177,7 +177,7 @@
 	{
 		
 		"name": "Aleut Nation",
-		"leaderName": "",
+		"leaderName": "Qanglaagix",
 		"adjective": ["Aleut"],
 		"startBias": ["Plains"],
 		"preferredVictoryType": "Diplomatic",
@@ -212,7 +212,7 @@
 	{
 		
 		"name": "Arapaho Nation",
-		"leaderName": "",
+		"leaderName": "Little Raven",
 		"adjective": ["Arapaho"],
 		"startBias": ["Plains"],
 		"preferredVictoryType": "Diplomatic",
@@ -247,7 +247,7 @@
 	{
 		
 		"name": "Chickasaw Nation",
-		"leaderName": "",
+		"leaderName": "Piominko",
 		"adjective": ["Chickasaw"],
 		"startBias": ["Plains"],
 		"preferredVictoryType": "Diplomatic",
@@ -281,7 +281,7 @@
 	},
 	{
 		"name": "Choctaw Nation",
-		"leaderName": "",
+		"leaderName": "Pushmataha",
 		"adjective": ["Choctaw"],
 		"startBias": ["Plains"],
 		"preferredVictoryType": "Diplomatic",
