@@ -3046,7 +3046,7 @@
 		
 	},
 	{
-		"name": "Navajo Nation",
+		"name": "The Navajo",
 		"leaderName": "",
 		"adjective": ["Navajo"],
 		"startBias": ["Plains"],
@@ -3081,7 +3081,7 @@
 	},
 	{
 		
-		"name": "Natchez Nation",
+		"name": "The Natchez",
 		"leaderName": "",
 		"adjective": ["Natchez"],
 		"startBias": ["Plains"],
@@ -3116,7 +3116,7 @@
 	},
 	{
 		
-		"name": "Nez Perce Nation",
+		"name": "The Nez Perce",
 		"leaderName": "Chief Joseph",
 		"adjective": ["Nez Perce"],
 		"startBias": ["Plains"],
@@ -3151,7 +3151,7 @@
 	},
 	{
 		
-		"name": "Odawa Nation",
+		"name": "The Odawa",
 		"leaderName": "Pontiac",
 		"adjective": ["Odawa"],
 		"startBias": ["Plains"],
@@ -3186,7 +3186,7 @@
 	},
 	{
 		
-		"name": "Oglala Nation",
+		"name": "The Oglala",
 		"leaderName": "Red Cloud",
 		"adjective": ["Oglala"],
 		"startBias": ["Plains"],
@@ -3221,7 +3221,7 @@
 	},
 	{
 		
-		"name": "Paiute Nation",
+		"name": "The Paiute",
 		"leaderName": "Wovoka",
 		"adjective": ["Paiute"],
 		"startBias": ["Plains"],
@@ -3256,7 +3256,7 @@
 	},
 	{
 		
-		"name": "Pamunkey Nation",
+		"name": "The Pamunkey",
 		"leaderName": "Opchanacanough",
 		"adjective": ["Pamunkey"],
 		"startBias": ["Plains"],
@@ -3291,7 +3291,7 @@
 	},
 	{
 		
-		"name": "Pomo Nation",
+		"name": "The Pomo",
 		"leaderName": "",
 		"adjective": ["Pomo"],
 		"startBias": ["Plains"],
@@ -3326,7 +3326,7 @@
 	},
 	{
 		
-		"name": "Pueblo Nation",
+		"name": "The Pueblo",
 		"leaderName": "",
 		"adjective": ["Pueblo"],
 		"startBias": ["Plains"],
@@ -3361,7 +3361,7 @@
 	},
 	{
 		
-		"name": "Pequot Nation",
+		"name": "The Pequot",
 		"leaderName": "",
 		"adjective": ["Pequot"],
 		"startBias": ["Plains"],
@@ -3396,7 +3396,7 @@
 	},
 	{
 		
-		"name": "Sauk Nation",
+		"name": "The Sauk",
 		"leaderName": "Black Hawk",
 		"adjective": ["Sauk"],
 		"startBias": ["Plains"],
@@ -3431,7 +3431,7 @@
 	},
 	{
 		
-		"name": "Seneca Nation",
+		"name": "The Seneca",
 		"leaderName": "Red Jacket",
 		"adjective": ["Seneca"],
 		"startBias": ["Plains"],
@@ -3466,7 +3466,7 @@
 	},
 	{
 		
-		"name": "Sioux Nation",
+		"name": "The Sioux",
 		"leaderName": "",
 		"adjective": ["Sioux"],
 		"startBias": ["Plains"],
@@ -3501,7 +3501,7 @@
 	},
 	{
 		
-		"name": "Shoshone Nation",
+		"name": "The Shoshone",
 		"leaderName": "",
 		"adjective": ["Shoshone"],
 		"startBias": ["Plains"],
@@ -3536,7 +3536,7 @@
 	},
 	{
 		
-		"name": "Shawnee Nation",
+		"name": "The Shawnee",
 		"leaderName": "Tecumseh",
 		"adjective": ["Shawnee"],
 		"startBias": ["Plains"],
@@ -3571,7 +3571,7 @@
 	},
 	{
 		
-		"name": "Seminole Nation",
+		"name": "The Seminole",
 		"leaderName": "Osceola",
 		"adjective": ["Seminole"],
 		"startBias": ["Plains"],
@@ -3606,7 +3606,7 @@
 	},
 	{
 		
-		"name": "Suquamish Nation",
+		"name": "The Suquamish",
 		"leaderName": "Chief Seattle",
 		"adjective": ["Suquamish"],
 		"startBias": ["Plains"],
@@ -3641,7 +3641,7 @@
 	},
 	{
 		
-		"name": "Tlingit Nation",
+		"name": "The Tlingit",
 		"leaderName": "",
 		"adjective": ["Tlingit"],
 		"startBias": ["Plains"],
@@ -3676,7 +3676,7 @@
 	},
 	{
 		
-		"name": "Yakima Nation",
+		"name": "The Yakima",
 		"leaderName": "",
 		"adjective": ["Yakima"],
 		"startBias": ["Plains"],
@@ -3711,7 +3711,7 @@
 	},
 	{
 		
-		"name": "Ute Nation",
+		"name": "The Ute",
 		"leaderName": "",
 		"adjective": ["Ute"],
 		"startBias": ["Plains"],
@@ -3746,7 +3746,7 @@
 	},
 	{
 		
-		"name": "Wampanoag Nation",
+		"name": "The Wampanoag",
 		"leaderName": "King Philip",
 		"adjective": ["Wampanoag"],
 		"startBias": ["Plains"],
