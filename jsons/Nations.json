@@ -32,11 +32,9 @@
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["Turikaku","Kitkehaxpakuxtu","Tuhitspiat","Tukitskita","Tuhawukasa","Arikararikutsu","Arikarariki","Tuwarakaku","Akapaxtsawa",
 			"Tskisarikus","Tstikskaatit","Turawiu","Pahukstatu","Tskirirara","Panismaha"],
-	
 	},
 	{
-                
-		"name": "The Cherokee",
+                "name": "The Cherokee",
 		"leaderName": "Degataga",
 		"adjective": ["Cherokee"],
 		"startBias": ["Plains"],
@@ -68,11 +66,9 @@
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["Turikaku","Kitkehaxpakuxtu","Tuhitspiat","Tukitskita","Tuhawukasa","Arikararikutsu","Arikarariki","Tuwarakaku","Akapaxtsawa",
 			"Tskisarikus","Tstikskaatit","Turawiu","Pahukstatu","Tskirirara","Panismaha"],
-	
 	},
         {
-               
-		"name": "The Crow",
+               	"name": "The Crow",
                 "leaderName": "Plenty Coups",
                 "adjective": ["Crow"],
                 "startBias": ["Plains"],
@@ -103,10 +99,8 @@
                 "innerColor": [255,200,200],
                 "unique": "MANIFEST_DESTINY",
                 "cities": ["Crow Agency", "Fort Smith", "Hardin", "Lodge Grass", "Pryor", "St. Xavier", "Wyola"]
-       
 	},
 	{
-		
 		"name": "The Abenaki",
 		"leaderName": "Nescambuit",
 		"adjective": ["Abenaki"],
@@ -138,10 +132,8 @@
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""],
-
 	},
 	{
-		
 		"name": "The Aberginian",
 		"leaderName": "",
 		"adjective": ["Aberginian"],
@@ -173,10 +165,8 @@
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""]
-
 	},
 	{
-		
 		"name": "The Abihka",
 		"leaderName": "",
 		"adjective": ["Abihka"],
@@ -208,10 +198,8 @@
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""]
-
 	},
 	{
-		
 		"name": "The Abittibi",
 		"leaderName": "",
 		"adjective": ["Abittibi"],
@@ -243,10 +231,8 @@
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""]
-
 	},
 	{
-		
 		"name": "The Accominta",
 		"leaderName": "",
 		"adjective": ["Accominta"],
@@ -278,10 +264,8 @@
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""]
-
 	},
 	{
-		
 		"name": "The Achiligonan",
 		"leaderName": "",
 		"adjective": ["Achiligonan"],
@@ -313,10 +297,8 @@
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""]
-
 	},
 	{
-		
 		"name": "The Achumawi",
 		"leaderName": "",
 		"adjective": ["Achumawi"],
@@ -348,10 +330,8 @@
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""]
-
 	},
-	{
-		
+	{	
 		"name": "The Acolapissa",
 		"leaderName": "",
 		"adjective": ["Acolapissa"],
@@ -383,10 +363,8 @@
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""]
-
 	},
 	{
-		
 		"name": "The Acoma",
 		"leaderName": "",
 		"adjective": ["Acoma"],
@@ -418,10 +396,8 @@
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""]
-
 	},
 	{
-		
 		"name": "The Acquintanacsnak",
 		"leaderName": "",
 		"adjective": ["Acquintanacsnak"],
@@ -453,10 +429,8 @@
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""]
-
 	},
 	{
-		
 		"name": "The Acuera",
 		"leaderName": "",
 		"adjective": ["Acuera"],
@@ -488,10 +462,8 @@
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""]
-
 	},
 	{
-		
 		"name": "The Adai",
 		"leaderName": "",
 		"adjective": ["Adai"],
@@ -523,10 +495,8 @@
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""]
-
 	},
 	{
-		
 		"name": "The Adirondack",
 		"leaderName": "",
 		"adjective": ["Adirondack"],
@@ -558,10 +528,8 @@
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""]
-
 	},
 	{
-		
 		"name": "The Adshusheer",
 		"leaderName": "",
 		"adjective": ["Adshusheer"],
@@ -593,10 +561,8 @@
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""]
-
 	},
-	{
-		
+	{	
 		"name": "The Agua Caliente",
 		"leaderName": "",
 		"adjective": ["Agua Caliente"],
@@ -628,10 +594,8 @@
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""]
-
 	},
 	{
-		
 		"name": "The Agawam",
 		"leaderName": "",
 		"adjective": ["Agawam"],
@@ -663,10 +627,8 @@
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""]
-
 	},
-	{
-		
+	{	
 		"name": "The Ahantchuyuk",
 		"leaderName": "",
 		"adjective": ["Ahantchuyuk"],
@@ -698,10 +660,8 @@
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""]
-
 	},
 	{
-		
 		"name": "The Ahtena",
 		"leaderName": "",
 		"adjective": ["Ahtena"],
@@ -733,10 +693,8 @@
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""]
-
 	},
 	{
-		
 		"name": "The Acjachemem",
 		"leaderName": "",
 		"adjective": ["Acjachemem"],
@@ -768,10 +726,8 @@
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""]
-
 	},
 	{
-		
 		"name": "The Akonapi",
 		"leaderName": "",
 		"adjective": ["Akonapi"],
@@ -803,10 +759,8 @@
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""]
-
 	},
 	{
-		
 		"name": "The Alchedoma",
 		"leaderName": "",
 		"adjective": ["Alchedoma"],
@@ -838,10 +792,8 @@
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""]
-
 	},
 	{
-		
 		"name": "Aleut Nation",
 		"leaderName": "Qanglaagix",
 		"adjective": ["Aleut"],
@@ -873,10 +825,8 @@
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""],
-
 	},
 	{
-		
 		"name": "The Algonquin",
 		"leaderName": "",
 		"adjective": ["Algonquin"],
@@ -908,10 +858,8 @@
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""]
-
 	},
 	{
-		
 		"name": "The Allakaweah",
 		"leaderName": "",
 		"adjective": ["Allakaweah"],
@@ -943,10 +891,8 @@
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""]
-
 	},
 	{
-		
 		"name": "The Aliklik",
 		"leaderName": "",
 		"adjective": ["Aliklik"],
@@ -978,10 +924,8 @@
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""]
-
 	},
 	{
-		
 		"name": "The Alsea",
 		"leaderName": "",
 		"adjective": ["Alsea"],
@@ -1013,10 +957,8 @@
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""]
-
 	},
 	{
-		
 		"name": "The Amacano"
 		"leaderName": "",
 		"adjective": ["Amacano"],
@@ -1048,10 +990,8 @@
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""]
-
 	},
 	{
-		
 		"name": "The Amahami",
 		"leaderName": "",
 		"adjective": ["Amahami"],
@@ -1083,10 +1023,8 @@
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""]
-
 	},
 	{
-		
 		"name": "The Amaseconti",
 		"leaderName": "",
 		"adjective": ["Amaseconti"],
@@ -1118,10 +1056,8 @@
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""]
-
 	},
 	{
-		
 		"name": "The Amikwa",
 		"leaderName": "",
 		"adjective": ["Amikwa"],
@@ -1153,10 +1089,8 @@
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""]
-
 	},
 	{
-		
 		"name": "The Anadarko",
 		"leaderName": "",
 		"adjective": ["Anadarko"],
@@ -1188,10 +1122,8 @@
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""]
-
 	},
 	{
-		
 		"name": "The Anasazi",
 		"leaderName": "",
 		"adjective": ["Anasazi"],
@@ -1223,10 +1155,8 @@
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""]
-
 	},
 	{
-		
 		"name": "The Androscoggin",
 		"leaderName": "",
 		"adjective": ["Androscoggin"],
@@ -1258,10 +1188,8 @@
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""]
-
 	},
 	{
-		
 		"name": "The Anishinaabe",
 		"leaderName": "",
 		"adjective": ["Anishinaabe"],
@@ -1293,10 +1221,8 @@
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""]
-
 	},
 	{
-		
 		"name": "The Ani-Stohini",
 		"leaderName": "",
 		"adjective": ["Ani-Stohini"],
@@ -1328,10 +1254,8 @@
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""]
-
 	},
 	{
-		
 		"name": "The Aondironon",
 		"leaderName": "",
 		"adjective": ["Aondironon"],
@@ -1363,10 +1287,8 @@
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""]
-
 	},
 	{
-		
 		"name": "The Apache",
 		"leaderName": "Geronimo",
 		"adjective": ["Apache"],
@@ -1398,10 +1320,8 @@
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""]
-
 	},
 	{
-		
 		"name": "The Apalachee",
 		"leaderName": "",
 		"adjective": ["Apalachee"],
@@ -1433,10 +1353,8 @@
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""]
-
 	},
 	{
-		
 		"name": "The Apalachicola",
 		"leaderName": "",
 		"adjective": ["Apalachicola"],
@@ -1468,10 +1386,8 @@
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""]
-
 	},
 	{
-		
 		"name": "The Appomattoc",
 		"leaderName": "",
 		"adjective": ["Appomattoc"],
@@ -1503,10 +1419,8 @@
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""]
-
 	},
 	{
-		
 		"name": "The Aquackanonk",
 		"leaderName": "",
 		"adjective": ["Aquackanonk"],
@@ -1538,10 +1452,8 @@
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""]
-
 	},
 	{
-		
 		"name": "The Aranama",
 		"leaderName": "",
 		"adjective": ["Aranama"],
@@ -1573,10 +1485,8 @@
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""]
-		
 	},
 	{
-		
 		"name": "The Arapaho",
 		"leaderName": "Little Raven",
 		"adjective": ["Arapaho"],
@@ -1608,10 +1518,8 @@
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""],
-
 	},
 	{
-		
 		"name": "The Arawak",
 		"leaderName": "",
 		"adjective": ["Arawak"],
@@ -1643,10 +1551,8 @@
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""]
-
 	},
 	{
-		
 		"name": "The Arendahronon",
 		"leaderName": "",
 		"adjective": ["Arendahronon"],
@@ -1678,10 +1584,8 @@
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""]
-
 	},
 	{
-		
 		"name": "The Arikara",
 		"leaderName": "",
 		"adjective": ["Arikara"],
@@ -1713,10 +1617,8 @@
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""]
-
 	},
 	{
-		
 		"name": "The Arivaipa",
 		"leaderName": "",
 		"adjective": ["Arivaipa"],
@@ -1748,10 +1650,8 @@
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""]
-
 	},
 	{
-		
 		"name": "The Arkokisa",
 		"leaderName": "",
 		"adjective": ["Arkokisa"],
@@ -1783,10 +1683,8 @@
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""]
-
 	},
 	{
-		
 		"name": "The Armouchiquois",
 		"leaderName": "",
 		"adjective": ["Armouchiquois"],
@@ -1818,10 +1716,8 @@
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""]
-
 	},
 	{
-		
 		"name": "The Arosaguntacook",
 		"leaderName": "",
 		"adjective": ["Arosaguntacook"],
@@ -1853,10 +1749,8 @@
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""]
-
 	},
 	{
-		
 		"name": "The Aschcutoner",
 		"leaderName": "",
 		"adjective": ["Aschcutoner"],
@@ -1888,10 +1782,8 @@
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""]
-		
         },
         {
-		
 		"name": "The Assateague",
 		"leaderName": "",
 		"adjective": ["Assateague"],
@@ -1923,10 +1815,8 @@
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""]
-
 	},
-	{
-		
+	{	
 		"name": "The Assegun",
 		"leaderName": "",
 		"adjective": ["Assegun"],
@@ -1958,10 +1848,8 @@
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""]
-
 	},
-	{
-		
+	{	
 		"name": "The Assiniboine",
 		"leaderName": "",
 		"adjective": ["Assiniboine"],
@@ -1993,10 +1881,8 @@
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""]
-
 	},
 	{
-		
 		"name": "The Assuti",
 		"leaderName": "",
 		"adjective": ["Assuti"],
@@ -2028,10 +1914,8 @@
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""]
-
 	},
 	{
-		
 		"name": "The Atakapa",
 		"leaderName": "",
 		"adjective": ["Atakapa"],
@@ -2063,10 +1947,8 @@
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""]
-
 	},
 	{
-		
 		"name": "The Atanumlema",
 		"leaderName": "",
 		"adjective": ["Atanumlema"],
@@ -2098,10 +1980,8 @@
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""]
-
 	},
 	{
-		
 		"name": "The Atasi",
 		"leaderName": "",
 		"adjective": ["Atasi"],
@@ -2133,10 +2013,8 @@
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""]
-
 	},
 	{
-		
 		"name": "The Atchatchakangouen",
 		"leaderName": "",
 		"adjective": ["Atchatchakangouen"],
@@ -2168,10 +2046,8 @@
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""]
-
 	},
 	{
-		
 		"name": "The Atfaiati",
 		"leaderName": "",
 		"adjective": ["Atfaiati"],
@@ -2203,10 +2079,8 @@
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""]
-
 	},
 	{
-		
 		"name": "The Athapascan",
 		"leaderName": "",
 		"adjective": ["Athapascan"],
@@ -2238,10 +2112,8 @@
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""]
-
 	},
 	{
-		
 		"name": "The Atikamekw",
 		"leaderName": "",
 		"adjective": ["Atikamekw"],
@@ -2273,10 +2145,8 @@
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""]
-
 	},
 	{
-		
 		"name": "The Atquanachuke",
 		"leaderName": "",
 		"adjective": ["Atquanachuke"],
@@ -2308,10 +2178,8 @@
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""]
-
 	},
 	{
-		
 		"name": "The Atsina",
 		"leaderName": "",
 		"adjective": ["Atsina"],
@@ -2343,10 +2211,8 @@
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""]
-
 	},
 	{
-		
 		"name": "The Atsugewi",
 		"leaderName": "",
 		"adjective": ["Atsugewi"],
@@ -2378,10 +2244,8 @@
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""]
-
 	},
 	{
-		
 		"name": "The Aucocisco",
 		"leaderName": "",
 		"adjective": ["Aucocisco"],
@@ -2413,10 +2277,8 @@
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""]
-
 	},
-	{
-		
+	{	
 		"name": "The Avavare",
 		"leaderName": "",
 		"adjective": ["Avavare"],
@@ -2448,10 +2310,8 @@
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""]
-
         },
-	{
-		
+	{	
 		"name": "The Avoyel",
 		"leaderName": "",
 		"adjective": ["Avoyel"],
@@ -2483,10 +2343,8 @@
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""]
-
 	},
-	{
-		
+	{	
 		"name": "The Awani",
 		"leaderName": "",
 		"adjective": ["Awani"],
@@ -2518,10 +2376,8 @@
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""]
-
 	},
 	{
-		
 		"name": "The Awatovi",
 		"leaderName": "",
 		"adjective": ["Awatovi"],
@@ -2553,10 +2409,8 @@
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""]
-		
 	},
 	{
-		
 		"name": "The Chickasaw",
 		"leaderName": "Piominko",
 		"adjective": ["Chickasaw"],
@@ -2588,7 +2442,6 @@
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""],
-
 	},
 	{
 		"name": "The Choctaw",
@@ -2622,10 +2475,8 @@
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""],
-
 	},
 	{
-		
 		"name": "The Comanche",
 		"leaderName": "Quanah Parker",
 		"adjective": ["Comanche"],
@@ -2657,10 +2508,8 @@
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""]
-		
 	},
 	{
-		
 		"name": "The Creek",
 		"leaderName": "Me-Na-Wa",
 		"adjective": ["Creek"],
@@ -2692,10 +2541,8 @@
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""],
-
 	},
 	{
-	
 		"name": "The Cheyenne",
 		"leaderName": "Black Kettle",
 		"adjective": ["Cheyenne"],
@@ -2727,10 +2574,8 @@
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""],
-
 	},
 	{
-		
 		"name": "The Chumash",
 		"leaderName": "",
 		"adjective": ["Chumash"],
@@ -2762,10 +2607,8 @@
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""],
-
 	},
 	{
-		
 		"name": "The Hunkpapa",
 		"leaderName": "Rain-in-the-Face",
 		"adjective": ["Hunkpapa"],
@@ -2797,10 +2640,8 @@
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""]
-		
 	},
 	{
-		
 		"name": "The Inuit",
 		"leaderName": "",
 		"adjective": ["Inuit"],
@@ -2832,10 +2673,8 @@
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""],
-
 	},
-	{
-		
+	{	
 		"name": "The Lakota",
 		"leaderName": "Sitting Bull",
 		"adjective": ["Lakota"],
@@ -2867,10 +2706,8 @@
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""]
-		
 	},
 	{
-		
 		"name": "The Lenape",
 		"leaderName": "Buckongahelas",
 		"adjective": ["Lenape"],
@@ -2902,10 +2739,8 @@
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""],
-
 	},
 	{
-		
 		"name": "The Mingo",
 		"leaderName": "Chief Logan",
 		"adjective": ["Ute"],
@@ -2937,10 +2772,8 @@
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""]
-		
         },
 	{
-		
 		"name": "The Minneconjou",
 		"leaderName": "Lone Horn",
 		"adjective": ["Minneconjou"],
@@ -2972,10 +2805,8 @@
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""]
-		
 	},
 	{
-		
 		"name": "The Modoc",
 		"leaderName": "Captain Jack",
 		"adjective": ["Modoc"],
@@ -3007,10 +2838,8 @@
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""]
-		
 	},
 	{
-		
 		"name": "The Mohawk",
 		"leaderName": "Sakayengwaraton",
 		"adjective": ["Mohawk"],
@@ -3042,10 +2871,8 @@
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""]
-		
 	},
 	{
-		
 		"name": "The Navajo",
 		"leaderName": "",
 		"adjective": ["Navajo"],
@@ -3077,10 +2904,8 @@
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""],
-
 	},
 	{
-		
 		"name": "The Natchez",
 		"leaderName": "",
 		"adjective": ["Natchez"],
@@ -3112,10 +2937,8 @@
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""],
-
 	},
-	{
-		
+	{	
 		"name": "The Nez Perce",
 		"leaderName": "Chief Joseph",
 		"adjective": ["Nez Perce"],
@@ -3147,10 +2970,8 @@
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""]
-
 	},
-	{
-		
+	{	
 		"name": "The Odawa",
 		"leaderName": "Pontiac",
 		"adjective": ["Odawa"],
@@ -3182,10 +3003,8 @@
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""]
-
 	},
 	{
-		
 		"name": "The Oglala",
 		"leaderName": "Red Cloud",
 		"adjective": ["Oglala"],
@@ -3217,10 +3036,8 @@
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""]
-		
 	},
-	{
-		
+	{	
 		"name": "The Paiute",
 		"leaderName": "Wovoka",
 		"adjective": ["Paiute"],
@@ -3252,10 +3069,8 @@
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""],
-
 	},
-	{
-		
+	{	
 		"name": "The Pamunkey",
 		"leaderName": "Opchanacanough",
 		"adjective": ["Pamunkey"],
@@ -3287,10 +3102,8 @@
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""]
-		
 	},
 	{
-		
 		"name": "The Pomo",
 		"leaderName": "",
 		"adjective": ["Pomo"],
@@ -3322,10 +3135,8 @@
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""],
-
 	},
-	{
-		
+	{	
 		"name": "The Pueblo",
 		"leaderName": "",
 		"adjective": ["Pueblo"],
@@ -3357,10 +3168,8 @@
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""],
-
 	},
-	{
-		
+	{	
 		"name": "The Pequot",
 		"leaderName": "",
 		"adjective": ["Pequot"],
@@ -3392,10 +3201,8 @@
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""],
-
 	},
-	{
-		
+	{	
 		"name": "The Sauk",
 		"leaderName": "Black Hawk",
 		"adjective": ["Sauk"],
@@ -3426,11 +3233,9 @@
 		"outerColor": [6,57,112],
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
-		"cities": ["","","","","","","","","","","","","","",""]
-		
+		"cities": ["","","","","","","","","","","","","","",""]	
 	},
-	{
-		
+	{	
 		"name": "The Seneca",
 		"leaderName": "Red Jacket",
 		"adjective": ["Seneca"],
@@ -3462,10 +3267,8 @@
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""]
-		
 	},
-	{
-		
+	{	
 		"name": "The Sioux",
 		"leaderName": "",
 		"adjective": ["Sioux"],
@@ -3497,10 +3300,8 @@
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""],
-
 	},
-	{
-		
+	{	
 		"name": "The Shoshone",
 		"leaderName": "",
 		"adjective": ["Shoshone"],
@@ -3532,10 +3333,8 @@
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""],
-
 	},
 	{
-		
 		"name": "The Shawnee",
 		"leaderName": "Tecumseh",
 		"adjective": ["Shawnee"],
@@ -3567,10 +3366,8 @@
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""],
-
 	},
-	{
-		
+	{	
 		"name": "The Seminole",
 		"leaderName": "Osceola",
 		"adjective": ["Seminole"],
@@ -3602,10 +3399,8 @@
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""],
-
 	},
 	{
-		
 		"name": "The Suquamish",
 		"leaderName": "Chief Seattle",
 		"adjective": ["Suquamish"],
@@ -3637,10 +3432,8 @@
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""]
-		
 	},
 	{
-		
 		"name": "The Tlingit",
 		"leaderName": "",
 		"adjective": ["Tlingit"],
@@ -3672,10 +3465,8 @@
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""],
-
 	},
 	{
-		
 		"name": "The Yakima",
 		"leaderName": "",
 		"adjective": ["Yakima"],
@@ -3707,10 +3498,8 @@
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""],
-
 	},
 	{
-		
 		"name": "The Ute",
 		"leaderName": "",
 		"adjective": ["Ute"],
@@ -3742,10 +3531,8 @@
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""]
-
 	},
 	{
-		
 		"name": "The Wampanoag",
 		"leaderName": "King Philip",
 		"adjective": ["Wampanoag"],
@@ -3777,6 +3564,5 @@
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""]
-        
 	}
 ]
