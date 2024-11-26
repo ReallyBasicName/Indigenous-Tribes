@@ -72,7 +72,7 @@
 	},
         {
                
-		"name": "Crow Nation",
+		"name": "The Crow",
                 "leaderName": "Plenty Coups",
                 "adjective": ["Crow"],
                 "startBias": ["Plains"],
@@ -84,17 +84,17 @@
                 "declaringWar": "Akbaatatdia will strike you down alongside us!",
                 "attacked": "You dare attack our sacred land? May Akbaatatdia protect us against you!",
                 "defeated": "It seems we were not the chosen of Akbaatatdia.. Very well.",
-                "introduction": "",
+                "introduction": "Kahée, fellow children of god.",
   
                 "neutralHello": "Kahée, stranger.",
-                "neutralLetsHearIt": ["Basshihkaachíssee","",""],
-                "neutralNo": ["","",""],
-                "neutralYes": ["","",""],
+                "neutralLetsHearIt": ["Basshihkaachíssee.","Our ears are open to your words.","We shall see what you have to offer."],
+                "neutralNo": ["Apologies, but we reject this.","No, we do not want this.","Maybe another time, brother."],
+                "neutralYes": ["Sapíhche","Axúassee","We accept."],
 
-                "hateHello": "",
-                "hateLetsHearIt": ["","",""],
-                "hateNo": ["","",""],
-                "hateYes": ["","",""],
+                "hateHello": "Iióhchikaapissee",
+                "hateLetsHearIt": ["Speak.","Hurry it up.",""],
+                "hateNo": ["Eéssee.","Kulusshípe","Baaiiwiátuua", "We do not wish to communicate or cooperate with you"],
+                "hateYes": ["Fine, we accept.","",""],
   
                 "afterPeace": "Let us celebrate this peace with a race of horses!",
                 "tradeRequest": "A resource for a resource for both our people to prosper?",
@@ -102,7 +102,7 @@
                 "outerColor": [16,16,16],
                 "innerColor": [255,200,200],
                 "unique": "MANIFEST_DESTINY",
-                "cities": [""]
+                "cities": ["Crow Agency", "Fort Smith", "Hardin", "Lodge Grass", "Pryor", "St. Xavier", "Wyola"]
        
 	},
 	{
