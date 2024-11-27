@@ -107,13 +107,13 @@
 		"startBias": ["Plains"],
 		"preferredVictoryType": "Diplomatic",
 		
-		"startIntroPart1": "Welcome",
-		"startIntroPart2": "",
+		"startIntroPart1": "Kwaï, new friend.",
+		"startIntroPart2": "Together, we shall Wlakamigenoka!",
 		
-		"declaringWar": "Then we will go to war!.",
-		"attacked": "I will never surrender!",
-		"defeated": "You cannot defeat my Spirit.",
-		"introduction": "Let us speak awhile.",
+		"declaringWar": "You awaas don't deserve grace. Feel our wrath!",
+		"attacked": "Peace is wanted, yet, we will protect our own from you, minwiz.",
+		"defeated": "May Kchi Niwaskw guide our descendants...",
+		"introduction": "Wan8go, brethren!",
 		
 		"neutralHello": "Hello.",
 		"neutralLetsHearIt": ["What?"],
