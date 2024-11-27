@@ -33,39 +33,6 @@
 		"cities": ["Turikaku","Kitkehaxpakuxtu","Tuhitspiat","Tukitskita","Tuhawukasa","Arikararikutsu","Arikarariki","Tuwarakaku","Akapaxtsawa",
 			"Tskisarikus","Tstikskaatit","Turawiu","Pahukstatu","Tskirirara","Panismaha"],
 	},
-        {
-               	"name": "The Crow",
-                "leaderName": "Plenty Coups",
-                "adjective": ["Crow"],
-                "startBias": ["Plains"],
-                "preferredVictoryType":"Cultural",
-  
-                "startIntroPart1": "We, the children of the Beaked One, will fulfill our bestowed destiny.",
-                "startIntroPart2": "Bilítaachiia iichiaxxó Akbaatatdía koó daasée bíilukaa.",
-  
-                "declaringWar": "Akbaatatdia will strike you down alongside us!",
-                "attacked": "You dare attack our sacred land? May Akbaatatdia protect us against you!",
-                "defeated": "It seems we were not the chosen of Akbaatatdia.. Very well.",
-                "introduction": "Kahée, fellow children of god.",
-  
-                "neutralHello": "Kahée, stranger.",
-                "neutralLetsHearIt": ["Basshihkaachíssee.","Our ears are open to your words.","We shall see what you have to offer."],
-                "neutralNo": ["Apologies, but we reject this.","No, we do not want this.","Maybe another time, brother."],
-                "neutralYes": ["Sapíhche","Axúassee","We accept."],
-
-                "hateHello": "Iióhchikaapissee",
-                "hateLetsHearIt": ["Speak.","Hurry it up.",""],
-                "hateNo": ["Eéssee.","Kulusshípe","Baaiiwiátuua", "We do not wish to communicate or cooperate with you"],
-                "hateYes": ["Fine, we accept.","",""],
-  
-                "afterPeace": "Let us celebrate this peace with a race of horses!",
-                "tradeRequest": "A resource for a resource for both our people to prosper?",
-
-                "outerColor": [16,16,16],
-                "innerColor": [255,200,200],
-                "unique": "MANIFEST_DESTINY",
-                "cities": ["Crow Agency", "Fort Smith", "Hardin", "Lodge Grass", "Pryor", "St. Xavier", "Wyola"]
-	},
 	{
 		"name": "The Abenaki",
 		"leaderName": "Nescambuit",
@@ -5579,6 +5546,138 @@
 		"cities": ["","","","","","","","","","","","","","",""]
 	},
 	{
+		"name": "The Coushatta",
+		"leaderName": "",
+		"adjective": ["Coushatta"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Diplomatic",
+		
+		"startIntroPart1": "Welcome",
+		"startIntroPart2": "",
+		
+		"declaringWar": "Then we will go to war!.",
+		"attacked": "I will never surrender!",
+		"defeated": "You cannot defeat my Spirit.",
+		"introduction": "Let us speak awhile.",
+		
+		"neutralHello": "Hello.",
+		"neutralLetsHearIt": ["What?"],
+		"neutralNo": ["No."],
+		"neutralYes": ["Yes."],
+
+		"hateHello": "What do you want?",
+		"hateLetsHearIt": ["Speak!"],
+		"hateNo": ["That is not acceptable!"],
+		"hateYes": ["Very well..."],
+		
+		"afterPeace": "Come let us smoke and renew our friendship.",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+
+		"outerColor": [6,57,112],
+		"innerColor": [1,1,1],
+		"unique": "MANIFEST_DESTINY",
+		"cities": ["","","","","","","","","","","","","","",""]
+	},
+	{
+		"name": "The Cowichan",
+		"leaderName": "",
+		"adjective": ["Cowichan"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Diplomatic",
+		
+		"startIntroPart1": "Welcome",
+		"startIntroPart2": "",
+		
+		"declaringWar": "Then we will go to war!.",
+		"attacked": "I will never surrender!",
+		"defeated": "You cannot defeat my Spirit.",
+		"introduction": "Let us speak awhile.",
+		
+		"neutralHello": "Hello.",
+		"neutralLetsHearIt": ["What?"],
+		"neutralNo": ["No."],
+		"neutralYes": ["Yes."],
+
+		"hateHello": "What do you want?",
+		"hateLetsHearIt": ["Speak!"],
+		"hateNo": ["That is not acceptable!"],
+		"hateYes": ["Very well..."],
+		
+		"afterPeace": "Come let us smoke and renew our friendship.",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+
+		"outerColor": [6,57,112],
+		"innerColor": [1,1,1],
+		"unique": "MANIFEST_DESTINY",
+		"cities": ["","","","","","","","","","","","","","",""]
+	},
+	{
+		"name": "The Cowlitz",
+		"leaderName": "",
+		"adjective": ["Cowlitz"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Diplomatic",
+		
+		"startIntroPart1": "Welcome",
+		"startIntroPart2": "",
+		
+		"declaringWar": "Then we will go to war!.",
+		"attacked": "I will never surrender!",
+		"defeated": "You cannot defeat my Spirit.",
+		"introduction": "Let us speak awhile.",
+		
+		"neutralHello": "Hello.",
+		"neutralLetsHearIt": ["What?"],
+		"neutralNo": ["No."],
+		"neutralYes": ["Yes."],
+
+		"hateHello": "What do you want?",
+		"hateLetsHearIt": ["Speak!"],
+		"hateNo": ["That is not acceptable!"],
+		"hateYes": ["Very well..."],
+		
+		"afterPeace": "Come let us smoke and renew our friendship.",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+
+		"outerColor": [6,57,112],
+		"innerColor": [1,1,1],
+		"unique": "MANIFEST_DESTINY",
+		"cities": ["","","","","","","","","","","","","","",""]
+	},
+	{
+		"name": "The Cree",
+		"leaderName": "",
+		"adjective": ["Cree"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Diplomatic",
+		
+		"startIntroPart1": "Welcome",
+		"startIntroPart2": "",
+		
+		"declaringWar": "Then we will go to war!.",
+		"attacked": "I will never surrender!",
+		"defeated": "You cannot defeat my Spirit.",
+		"introduction": "Let us speak awhile.",
+		
+		"neutralHello": "Hello.",
+		"neutralLetsHearIt": ["What?"],
+		"neutralNo": ["No."],
+		"neutralYes": ["Yes."],
+
+		"hateHello": "What do you want?",
+		"hateLetsHearIt": ["Speak!"],
+		"hateNo": ["That is not acceptable!"],
+		"hateYes": ["Very well..."],
+		
+		"afterPeace": "Come let us smoke and renew our friendship.",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+
+		"outerColor": [6,57,112],
+		"innerColor": [1,1,1],
+		"unique": "MANIFEST_DESTINY",
+		"cities": ["","","","","","","","","","","","","","",""]
+	},
+	{
 		"name": "The Creek",
 		"leaderName": "Me-Na-Wa",
 		"adjective": ["Creek"],
@@ -5612,9 +5711,108 @@
 		"cities": ["","","","","","","","","","","","","","",""],
 	},
 	{
-		"name": "The Cheyenne",
-		"leaderName": "Black Kettle",
-		"adjective": ["Cheyenne"],
+		"name": "The Croatan",
+		"leaderName": "",
+		"adjective": ["Croatan"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Diplomatic",
+		
+		"startIntroPart1": "Welcome",
+		"startIntroPart2": "",
+		
+		"declaringWar": "Then we will go to war!.",
+		"attacked": "I will never surrender!",
+		"defeated": "You cannot defeat my Spirit.",
+		"introduction": "Let us speak awhile.",
+		
+		"neutralHello": "Hello.",
+		"neutralLetsHearIt": ["What?"],
+		"neutralNo": ["No."],
+		"neutralYes": ["Yes."],
+
+		"hateHello": "What do you want?",
+		"hateLetsHearIt": ["Speak!"],
+		"hateNo": ["That is not acceptable!"],
+		"hateYes": ["Very well..."],
+		
+		"afterPeace": "Come let us smoke and renew our friendship.",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+
+		"outerColor": [6,57,112],
+		"innerColor": [1,1,1],
+		"unique": "MANIFEST_DESTINY",
+		"cities": ["","","","","","","","","","","","","","",""]
+	},
+        {
+               	"name": "The Crow",
+                "leaderName": "Plenty Coups",
+                "adjective": ["Crow"],
+                "startBias": ["Plains"],
+                "preferredVictoryType":"Cultural",
+  
+                "startIntroPart1": "We, the children of the Beaked One, will fulfill our bestowed destiny.",
+                "startIntroPart2": "Bilítaachiia iichiaxxó Akbaatatdía koó daasée bíilukaa.",
+  
+                "declaringWar": "Akbaatatdia will strike you down alongside us!",
+                "attacked": "You dare attack our sacred land? May Akbaatatdia protect us against you!",
+                "defeated": "It seems we were not the chosen of Akbaatatdia.. Very well.",
+                "introduction": "Kahée, fellow children of god.",
+  
+                "neutralHello": "Kahée, stranger.",
+                "neutralLetsHearIt": ["Basshihkaachíssee.","Our ears are open to your words.","We shall see what you have to offer."],
+                "neutralNo": ["Apologies, but we reject this.","No, we do not want this.","Maybe another time, brother."],
+                "neutralYes": ["Sapíhche","Axúassee","We accept."],
+
+                "hateHello": "Iióhchikaapissee",
+                "hateLetsHearIt": ["Speak.","Hurry it up.",""],
+                "hateNo": ["Eéssee.","Kulusshípe","Baaiiwiátuua", "We do not wish to communicate or cooperate with you"],
+                "hateYes": ["Fine, we accept.","",""],
+  
+                "afterPeace": "Let us celebrate this peace with a race of horses!",
+                "tradeRequest": "A resource for a resource for both our people to prosper?",
+
+                "outerColor": [16,16,16],
+                "innerColor": [255,200,200],
+                "unique": "MANIFEST_DESTINY",
+                "cities": ["Crow Agency", "Fort Smith", "Hardin", "Lodge Grass", "Pryor", "St. Xavier", "Wyola"]
+	},
+	{
+		"name": "The Cuneil",
+		"leaderName": "",
+		"adjective": ["Cuneil"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Diplomatic",
+		
+		"startIntroPart1": "Welcome",
+		"startIntroPart2": "",
+		
+		"declaringWar": "Then we will go to war!.",
+		"attacked": "I will never surrender!",
+		"defeated": "You cannot defeat my Spirit.",
+		"introduction": "Let us speak awhile.",
+		
+		"neutralHello": "Hello.",
+		"neutralLetsHearIt": ["What?"],
+		"neutralNo": ["No."],
+		"neutralYes": ["Yes."],
+
+		"hateHello": "What do you want?",
+		"hateLetsHearIt": ["Speak!"],
+		"hateNo": ["That is not acceptable!"],
+		"hateYes": ["Very well..."],
+		
+		"afterPeace": "Come let us smoke and renew our friendship.",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+
+		"outerColor": [6,57,112],
+		"innerColor": [1,1,1],
+		"unique": "MANIFEST_DESTINY",
+		"cities": ["","","","","","","","","","","","","","",""]
+	},
+	{
+		"name": "The Cupeno",
+		"leaderName": "",
+		"adjective": ["Cupeno"],
 		"startBias": ["Plains"],
 		"preferredVictoryType": "Diplomatic",
 		
@@ -5645,9 +5843,9 @@
 		"cities": ["","","","","","","","","","","","","","",""],
 	},
 	{
-		"name": "The Chumash",
+		"name": "The ",
 		"leaderName": "",
-		"adjective": ["Chumash"],
+		"adjective": [""],
 		"startBias": ["Plains"],
 		"preferredVictoryType": "Diplomatic",
 		
