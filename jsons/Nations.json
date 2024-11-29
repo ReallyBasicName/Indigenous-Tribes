@@ -5974,9 +5974,372 @@
 		"cities": ["","","","","","","","","","","","","","",""],
 	},
 	{
+		"name": "The Dakota",
+		"leaderName": "",
+		"adjective": ["Dakota"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Diplomatic",
+		
+		"startIntroPart1": "Welcome",
+		"startIntroPart2": "",
+		
+		"declaringWar": "Then we will go to war!.",
+		"attacked": "I will never surrender!",
+		"defeated": "You cannot defeat my Spirit.",
+		"introduction": "Let us speak awhile.",
+		
+		"neutralHello": "Hello.",
+		"neutralLetsHearIt": ["What?"],
+		"neutralNo": ["No."],
+		"neutralYes": ["Yes."],
+
+		"hateHello": "What do you want?",
+		"hateLetsHearIt": ["Speak!"],
+		"hateNo": ["That is not acceptable!"],
+		"hateYes": ["Very well..."],
+		
+		"afterPeace": "Come let us smoke and renew our friendship.",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+
+		"outerColor": [6,57,112],
+		"innerColor": [1,1,1],
+		"unique": "MANIFEST_DESTINY",
+		"cities": ["","","","","","","","","","","","","","",""],
+	},
+	{
+		"name": "The Dakubetede",
+		"leaderName": "",
+		"adjective": ["Dakubetede"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Diplomatic",
+		
+		"startIntroPart1": "Welcome",
+		"startIntroPart2": "",
+		
+		"declaringWar": "Then we will go to war!.",
+		"attacked": "I will never surrender!",
+		"defeated": "You cannot defeat my Spirit.",
+		"introduction": "Let us speak awhile.",
+		
+		"neutralHello": "Hello.",
+		"neutralLetsHearIt": ["What?"],
+		"neutralNo": ["No."],
+		"neutralYes": ["Yes."],
+
+		"hateHello": "What do you want?",
+		"hateLetsHearIt": ["Speak!"],
+		"hateNo": ["That is not acceptable!"],
+		"hateYes": ["Very well..."],
+		
+		"afterPeace": "Come let us smoke and renew our friendship.",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+
+		"outerColor": [6,57,112],
+		"innerColor": [1,1,1],
+		"unique": "MANIFEST_DESTINY",
+		"cities": ["","","","","","","","","","","","","","",""],
+	},
+	{
+		"name": "The Dalton Period",
+		"leaderName": "",
+		"adjective": ["Dalton"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Diplomatic",
+		
+		"startIntroPart1": "Welcome",
+		"startIntroPart2": "",
+		
+		"declaringWar": "Then we will go to war!.",
+		"attacked": "I will never surrender!",
+		"defeated": "You cannot defeat my Spirit.",
+		"introduction": "Let us speak awhile.",
+		
+		"neutralHello": "Hello.",
+		"neutralLetsHearIt": ["What?"],
+		"neutralNo": ["No."],
+		"neutralYes": ["Yes."],
+
+		"hateHello": "What do you want?",
+		"hateLetsHearIt": ["Speak!"],
+		"hateNo": ["That is not acceptable!"],
+		"hateYes": ["Very well..."],
+		
+		"afterPeace": "Come let us smoke and renew our friendship.",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+
+		"outerColor": [6,57,112],
+		"innerColor": [1,1,1],
+		"unique": "MANIFEST_DESTINY",
+		"cities": ["","","","","","","","","","","","","","",""],
+	},
+	{
+		"name": "The Deadose",
+		"leaderName": "",
+		"adjective": ["Deadose"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Diplomatic",
+		
+		"startIntroPart1": "Welcome",
+		"startIntroPart2": "",
+		
+		"declaringWar": "Then we will go to war!.",
+		"attacked": "I will never surrender!",
+		"defeated": "You cannot defeat my Spirit.",
+		"introduction": "Let us speak awhile.",
+		
+		"neutralHello": "Hello.",
+		"neutralLetsHearIt": ["What?"],
+		"neutralNo": ["No."],
+		"neutralYes": ["Yes."],
+
+		"hateHello": "What do you want?",
+		"hateLetsHearIt": ["Speak!"],
+		"hateNo": ["That is not acceptable!"],
+		"hateYes": ["Very well..."],
+		
+		"afterPeace": "Come let us smoke and renew our friendship.",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+
+		"outerColor": [6,57,112],
+		"innerColor": [1,1,1],
+		"unique": "MANIFEST_DESTINY",
+		"cities": ["","","","","","","","","","","","","","",""],
+	},
+	{
+		"name": "The Diegueno",
+		"leaderName": "",
+		"adjective": ["Diegueno"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Diplomatic",
+		
+		"startIntroPart1": "Welcome",
+		"startIntroPart2": "",
+		
+		"declaringWar": "Then we will go to war!.",
+		"attacked": "I will never surrender!",
+		"defeated": "You cannot defeat my Spirit.",
+		"introduction": "Let us speak awhile.",
+		
+		"neutralHello": "Hello.",
+		"neutralLetsHearIt": ["What?"],
+		"neutralNo": ["No."],
+		"neutralYes": ["Yes."],
+
+		"hateHello": "What do you want?",
+		"hateLetsHearIt": ["Speak!"],
+		"hateNo": ["That is not acceptable!"],
+		"hateYes": ["Very well..."],
+		
+		"afterPeace": "Come let us smoke and renew our friendship.",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+
+		"outerColor": [6,57,112],
+		"innerColor": [1,1,1],
+		"unique": "MANIFEST_DESTINY",
+		"cities": ["","","","","","","","","","","","","","",""],
+	},
+	{
+		"name": "The Dine",
+		"leaderName": "",
+		"adjective": ["Dine"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Diplomatic",
+		
+		"startIntroPart1": "Welcome",
+		"startIntroPart2": "",
+		
+		"declaringWar": "Then we will go to war!.",
+		"attacked": "I will never surrender!",
+		"defeated": "You cannot defeat my Spirit.",
+		"introduction": "Let us speak awhile.",
+		
+		"neutralHello": "Hello.",
+		"neutralLetsHearIt": ["What?"],
+		"neutralNo": ["No."],
+		"neutralYes": ["Yes."],
+
+		"hateHello": "What do you want?",
+		"hateLetsHearIt": ["Speak!"],
+		"hateNo": ["That is not acceptable!"],
+		"hateYes": ["Very well..."],
+		
+		"afterPeace": "Come let us smoke and renew our friendship.",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+
+		"outerColor": [6,57,112],
+		"innerColor": [1,1,1],
+		"unique": "MANIFEST_DESTINY",
+		"cities": ["","","","","","","","","","","","","","",""],
+	},
+	{
+		"name": "The Dogrib",
+		"leaderName": "",
+		"adjective": ["Dogrib"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Diplomatic",
+		
+		"startIntroPart1": "Welcome",
+		"startIntroPart2": "",
+		
+		"declaringWar": "Then we will go to war!.",
+		"attacked": "I will never surrender!",
+		"defeated": "You cannot defeat my Spirit.",
+		"introduction": "Let us speak awhile.",
+		
+		"neutralHello": "Hello.",
+		"neutralLetsHearIt": ["What?"],
+		"neutralNo": ["No."],
+		"neutralYes": ["Yes."],
+
+		"hateHello": "What do you want?",
+		"hateLetsHearIt": ["Speak!"],
+		"hateNo": ["That is not acceptable!"],
+		"hateYes": ["Very well..."],
+		
+		"afterPeace": "Come let us smoke and renew our friendship.",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+
+		"outerColor": [6,57,112],
+		"innerColor": [1,1,1],
+		"unique": "MANIFEST_DESTINY",
+		"cities": ["","","","","","","","","","","","","","",""],
+	},
+	{
+		"name": "The Dotame",
+		"leaderName": "",
+		"adjective": ["Dotame"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Diplomatic",
+		
+		"startIntroPart1": "Welcome",
+		"startIntroPart2": "",
+		
+		"declaringWar": "Then we will go to war!.",
+		"attacked": "I will never surrender!",
+		"defeated": "You cannot defeat my Spirit.",
+		"introduction": "Let us speak awhile.",
+		
+		"neutralHello": "Hello.",
+		"neutralLetsHearIt": ["What?"],
+		"neutralNo": ["No."],
+		"neutralYes": ["Yes."],
+
+		"hateHello": "What do you want?",
+		"hateLetsHearIt": ["Speak!"],
+		"hateNo": ["That is not acceptable!"],
+		"hateYes": ["Very well..."],
+		
+		"afterPeace": "Come let us smoke and renew our friendship.",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+
+		"outerColor": [6,57,112],
+		"innerColor": [1,1,1],
+		"unique": "MANIFEST_DESTINY",
+		"cities": ["","","","","","","","","","","","","","",""],
+	},
+	{
+		"name": "The Doustioni",
+		"leaderName": "",
+		"adjective": ["Doustioni"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Diplomatic",
+		
+		"startIntroPart1": "Welcome",
+		"startIntroPart2": "",
+		
+		"declaringWar": "Then we will go to war!.",
+		"attacked": "I will never surrender!",
+		"defeated": "You cannot defeat my Spirit.",
+		"introduction": "Let us speak awhile.",
+		
+		"neutralHello": "Hello.",
+		"neutralLetsHearIt": ["What?"],
+		"neutralNo": ["No."],
+		"neutralYes": ["Yes."],
+
+		"hateHello": "What do you want?",
+		"hateLetsHearIt": ["Speak!"],
+		"hateNo": ["That is not acceptable!"],
+		"hateYes": ["Very well..."],
+		
+		"afterPeace": "Come let us smoke and renew our friendship.",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+
+		"outerColor": [6,57,112],
+		"innerColor": [1,1,1],
+		"unique": "MANIFEST_DESTINY",
+		"cities": ["","","","","","","","","","","","","","",""],
+	},
+	{
+		"name": "The Duhare",
+		"leaderName": "",
+		"adjective": [""],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Diplomatic",
+		
+		"startIntroPart1": "Welcome",
+		"startIntroPart2": "",
+		
+		"declaringWar": "Then we will go to war!.",
+		"attacked": "I will never surrender!",
+		"defeated": "You cannot defeat my Spirit.",
+		"introduction": "Let us speak awhile.",
+		
+		"neutralHello": "Hello.",
+		"neutralLetsHearIt": ["What?"],
+		"neutralNo": ["No."],
+		"neutralYes": ["Yes."],
+
+		"hateHello": "What do you want?",
+		"hateLetsHearIt": ["Speak!"],
+		"hateNo": ["That is not acceptable!"],
+		"hateYes": ["Very well..."],
+		
+		"afterPeace": "Come let us smoke and renew our friendship.",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+
+		"outerColor": [6,57,112],
+		"innerColor": [1,1,1],
+		"unique": "MANIFEST_DESTINY",
+		"cities": ["","","","","","","","","","","","","","",""],
+	},
+	{
+		"name": "The Duwamish",
+		"leaderName": "",
+		"adjective": ["Duwamish"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Diplomatic",
+		
+		"startIntroPart1": "Welcome",
+		"startIntroPart2": "",
+		
+		"declaringWar": "Then we will go to war!.",
+		"attacked": "I will never surrender!",
+		"defeated": "You cannot defeat my Spirit.",
+		"introduction": "Let us speak awhile.",
+		
+		"neutralHello": "Hello.",
+		"neutralLetsHearIt": ["What?"],
+		"neutralNo": ["No."],
+		"neutralYes": ["Yes."],
+
+		"hateHello": "What do you want?",
+		"hateLetsHearIt": ["Speak!"],
+		"hateNo": ["That is not acceptable!"],
+		"hateYes": ["Very well..."],
+		
+		"afterPeace": "Come let us smoke and renew our friendship.",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+
+		"outerColor": [6,57,112],
+		"innerColor": [1,1,1],
+		"unique": "MANIFEST_DESTINY",
+		"cities": ["","","","","","","","","","","","","","",""],
+	},
+	{
 		"name": "The Esopus",
 		"leaderName": "",
-		"adjective": ["Esopus"],
+		"adjective": ["Espous"],
 		"startBias": ["Plains"],
 		"preferredVictoryType": "Diplomatic",
 		
