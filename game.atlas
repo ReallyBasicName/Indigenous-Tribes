@@ -6,7 +6,7 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 BuildingIcons/Breeders
   rotate: false
-  xy: 1412, 594
+  xy: 4, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -18,18 +18,11 @@ BuildingIcons/Holodeck
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/Aliens
+NationIcons/The Cherokee
   rotate: false
-  xy: 4, 4
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-NationIcons/Pawnee_flag.svg
-  rotate: false
-  xy: 1412, 702
-  size: 375, 250
-  orig: 375, 250
+  xy: 1412, 494
+  size: 200, 200
+  orig: 200, 200
   offset: 0, 0
   index: -1
 NationIcons/The Crow
@@ -39,9 +32,16 @@ NationIcons/The Crow
   orig: 1400, 840
   offset: 0, 0
   index: -1
+NationIcons/The Pawnee
+  rotate: false
+  xy: 1412, 702
+  size: 375, 250
+  orig: 375, 250
+  offset: 0, 0
+  index: -1
 UnitIcons/Phasers
   rotate: false
-  xy: 112, 4
+  xy: 1412, 386
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
