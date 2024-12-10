@@ -25,6 +25,13 @@ NationIcons/The Cherokee
   orig: 200, 200
   offset: 0, 0
   index: -1
+NationIcons/The Cree
+  rotate: false
+  xy: 1412, 494
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
 NationIcons/The Crow
   rotate: false
   xy: 4, 112
