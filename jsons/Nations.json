@@ -3103,15 +3103,6 @@
 		"cities": ["","","","","","","","","","","","","","",""],
 	},
 	{
-		"name": "The ",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
-
-		"outerColor": [6,57,112],
-		"innerColor": [1,1,1],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["","","","","","","","","","","","","","",""],
-	},
-	{
 		"name": "The Mi'Kmaq",
 		"leaderName": "",
 		"adjective": ["Mi'Kmaq"],
@@ -4228,7 +4219,7 @@
 		"afterPeace": "Are you sure you want to stop fighting?",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [10,60,100],
+		"outerColor": [170,189,206],
 		"innerColor": [255,255,255],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["Turikaku","Kitkehaxpakuxtu","Tuhitspiat","Tukitskita","Tuhawukasa","Arikararikutsu","Arikarariki","Tuwarakaku","Akapaxtsawa",
