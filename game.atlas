@@ -13,21 +13,21 @@ BuildingIcons/Breeders
   index: -1
 BuildingIcons/Holodeck
   rotate: false
-  xy: 1795, 852
+  xy: 1620, 852
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/The Cherokee
   rotate: false
-  xy: 1412, 494
+  xy: 1412, 752
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 NationIcons/The Cree
   rotate: false
-  xy: 1412, 494
+  xy: 1412, 752
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
@@ -41,14 +41,14 @@ NationIcons/The Crow
   index: -1
 NationIcons/The Pawnee
   rotate: false
-  xy: 1412, 702
-  size: 375, 250
-  orig: 375, 250
+  xy: 1412, 544
+  size: 200, 200
+  orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Phasers
   rotate: false
-  xy: 1412, 386
+  xy: 1412, 436
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
